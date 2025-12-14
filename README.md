@@ -37,6 +37,14 @@ The enhanced version includes:
 4. Build and run on an Android emulator or device
 
 ### Screenshots
+<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 35 32 PM" src="https://github.com/user-attachments/assets/e402f53c-a817-42cc-9157-da42e0501acd" />
+<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 07 09 PM" src="https://github.com/user-attachments/assets/52c11787-d71c-427e-8b30-ba5ed056046b" />
+<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 06 46 PM" src="https://github.com/user-attachments/assets/889c4037-336d-4d87-9c8e-c24e176d73fc" />
+<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 06 33 PM" src="https://github.com/user-attachments/assets/e864c4fb-3fc0-4b07-afa7-9caf1b8abc4c" />
+<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 06 14 PM" src="https://github.com/user-attachments/assets/67df20e8-c76b-4364-8958-b2daad924b0e" />
+<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 05 37 PM" src="https://github.com/user-attachments/assets/1674919d-a7e4-4d50-bd41-87f9e63329d7" />
+<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 04 49 PM" src="https://github.com/user-attachments/assets/7bf46e91-2e7c-4b4b-b019-a41ab7af083b" />
+
 
 
 
