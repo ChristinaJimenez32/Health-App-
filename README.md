@@ -31,7 +31,7 @@ The enhanced version includes:
 - Visual weight progression graphs
 
 ## Installation
-1. Download the `HealthApp_Revised.zip` file
+1. Download the `Health_App_RevisedVersion2` file
 2. Extract the contents
 3. Open the project in Android Studio
 4. Build and run on an Android emulator or device
