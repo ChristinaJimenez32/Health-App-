@@ -44,7 +44,7 @@ The enhanced version includes:
 <img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 06 33 PM" src="https://github.com/user-attachments/assets/e864c4fb-3fc0-4b07-afa7-9caf1b8abc4c" />
 <img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 06 46 PM" src="https://github.com/user-attachments/assets/889c4037-336d-4d87-9c8e-c24e176d73fc" />
 <img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 07 09 PM" src="https://github.com/user-attachments/assets/52c11787-d71c-427e-8b30-ba5ed056046b" />
-<img width="1440" height="900" alt="Screenshot 2025-12-11 at 10 35 32 PM" src="https://github.com/user-attachments/assets/e402f53c-a817-42cc-9157-da42e0501acd" />
+
 
 ### Author
 Christina Jimenez
