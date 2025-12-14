@@ -1,27 +1,27 @@
 # Health Tracking App
 
-## Overview
+### Overview
 A user-friendly Android application designed to help women track their weight, monitor nutrition, and achieve their fitness goals. Built with Java and XML in Android Studio.
 
-## Features
+### Features
 - **Weight Tracking**: Log daily weight entries and visualize progress
 - **Food Diary**: Track nutritional intake throughout the day
 - **SMS Notifications**: Optional notifications for goal achievements (with user permission)
 - **Intuitive UI**: RecyclerView-based interface for easy navigation
 - **Multi-Activity Architecture**: Seamless integration between different app sections
 
-## Technologies Used
+### Technologies Used
 - **Language**: Java, XML
 - **Platform**: Android Studio
 - **Database**: SQLite
 - **Key Components**: RecyclerView, Activity lifecycle, SMS Permissions
 
-## Project Structure
+### Project Structure
 - `HealthApp_Original.zip` - Initial version created in CS-360
-- `enhanced/` -  Improved version with enhanced UI/UX for target audience
-- `docs/` -  Enhancement plans and documentation
+- `HealthApp_Revised_Version2.zip` -  Improved version with enhanced UI/UX for target audience
 
-## Key Enhancements (Planned/Completed)
+
+### Key Enhancements (Planned/Completed)
 The enhanced version includes:
 - Redesigned interface specifically tailored for women users
 - Improved RecyclerView implementation for better performance
@@ -30,15 +30,15 @@ The enhanced version includes:
 - Better user permission handling for SMS notifications
 - Visual weight progression graphs
 
-## Installation
-1. Download the `Health_App_RevisedVersion2` file
+### Installation
+1. Download the `HealthApp_Revised_Version2.zip` file
 2. Extract the contents
 3. Open the project in Android Studio
 4. Build and run on an Android emulator or device
 
-## Screenshots
+### Screenshots
 
 
 
-## Author
+### Author
 Christina Jimenez
